@@ -1,0 +1,19 @@
+{
+    "name": "kdf5000/thinkphp",
+    "description": "a framework based on thinkphp",
+    "authors": [
+        {
+            "name": "KDF",
+            "email": "kdf5000@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "Think\\": "src/ThinkPHP/Library/Think",
+            "ThinkPHP\\": "src/ThinkPHP",
+            "Behavior\\": "src/ThinkPHP/Library/Behavior",
+            "Org\\": "src/ThinkPHP/Library/Org"
+        }
+    }
+}

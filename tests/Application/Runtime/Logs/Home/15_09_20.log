@@ -1,0 +1,467 @@
+[ 2015-09-20T00:14:40+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+
+[ 2015-09-20T00:16:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+
+[ 2015-09-20T00:17:30+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020821s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:20:41+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:20:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000159s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:20:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:20:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:20:42+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:20:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:20:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000159s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:35+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:36+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:27:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:28:15+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:28:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:28:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000156s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000175s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000158s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000159s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000158s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:29:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:30:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000088s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-09-20T00:31:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+ERR: 无法加载控制器:Index
+
