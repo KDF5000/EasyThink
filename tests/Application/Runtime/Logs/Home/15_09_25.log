@@ -1,0 +1,11 @@
+[ 2015-09-25T00:35:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+NOTIC: [8] Use of undefined constant URL_COMPAT - assumed 'URL_COMPAT' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 183 行.
+NOTIC: [8] Use of undefined constant URL_REWRITE - assumed 'URL_REWRITE' /home/devin/CodingDemo/Composer/src/ThinkPHP/Library/Think/Dispatcher.php 第 185 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+ERR: 无法加载控制器:Index
+

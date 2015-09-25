@@ -92,7 +92,7 @@ class [MODEL]Model extends Model {
                 foreach($list as $model){
                     self::buildModel($module,$model);
                 }
-            }            
+            }
         }else{
             header('Content-Type:text/html; charset=utf-8');
             exit('应用目录['.APP_PATH.']不可写，目录无法自动生成！<BR>请手动生成项目目录~');
@@ -116,7 +116,7 @@ class [MODEL]Model extends Model {
 
     // 创建控制器类
     static public function buildController($module,$controller='Index') {
-        $file   =   APP_PATH.$module.'/Controller/'.$controller.'Controller'.EXT;
+        $file   =   APP_PATH.$module.'/Controller/'.$controller.'Controller.php';
         if(!is_file($file)){
             $content = str_replace(array('[MODULE]','[CONTROLLER]'),array($module,$controller),self::$controller);
             if(!C('APP_USE_NAMESPACE')){
@@ -132,7 +132,7 @@ class [MODEL]Model extends Model {
 
     // 创建模型类
     static public function buildModel($module,$model) {
-        $file   =   APP_PATH.$module.'/Model/'.$model.'Model'.EXT;
+        $file   =   APP_PATH.$module.'/Model/'.$model.'Model.php';
         if(!is_file($file)){
             $content = str_replace(array('[MODULE]','[MODEL]'),array($module,$model),self::$model);
             if(!C('APP_USE_NAMESPACE')){
